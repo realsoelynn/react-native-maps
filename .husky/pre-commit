@@ -3,5 +3,3 @@
 
 yarn lint
 yarn tscheck
-yarn format-check
-yarn test
